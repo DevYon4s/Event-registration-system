@@ -35,8 +35,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/DevYon4s/CodeAlpha_Event-registration-system.git
-    cd CodeAlpha_Event-registration-system
+    git clone https://github.com/DevYon4s/Event-registration-system.git
+    cd Event-registration-system
     ```
 
 2.  **Install dependencies:**
